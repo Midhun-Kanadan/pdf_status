@@ -5,4 +5,4 @@ update_pdf_status.bat
 pdf.ipynb
 
 # Ignore PDF counting script
-count_pdfs.py
+# count_pdfs.py
