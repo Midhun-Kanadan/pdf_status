@@ -2,7 +2,8 @@ name: Update PDF Count
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Runs every hour
+    # - cron: "0 * * * *"  # Runs every hour
+    - cron: "* * * * *"  # Runs every minute
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
