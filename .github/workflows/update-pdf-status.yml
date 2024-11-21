@@ -1,13 +1,8 @@
-name: Update PDF Count
-
-on:
-  schedule:
-    - cron: "* * * * *"  # Runs every minute
-  workflow_dispatch:  # Allows manual trigger
-
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Grant write access to the repository
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
