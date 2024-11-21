@@ -1,0 +1,8 @@
+# Ignore batch script
+update_pdf_status.bat
+
+# Ignore Jupyter Notebook
+pdf.ipynb
+
+# Ignore PDF counting script
+count_pdfs.py
