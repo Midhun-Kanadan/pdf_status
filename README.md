@@ -10,6 +10,6 @@ The following table displays the current counts:
 | PDFs in 'jrnl'          | 9309      |
 | Processed PDFs          | 42542      |
 | Unprocessed PDFs        | 294      |
-| Total number of .bib entries | 0  |
-| Entries in 'conf'       | 0      |
-| Entries in 'jrnl'       | 0      |
+| Total number of .bib entries | 61531  |
+| Entries in 'conf'       | 45501      |
+| Entries in 'jrnl'       | 16030      |

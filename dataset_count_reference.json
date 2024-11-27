@@ -4,9 +4,9 @@
     "pdf_count_jrnl": 9309,
     "processed_pdf_count": 42542,
     "unprocessed_pdf_count": 294,
-    "bib_total_count": 0,
-    "bib_conf_count": 0,
-    "bib_jrnl_count": 0,
+    "bib_total_count": 61531,
+    "bib_conf_count": 45501,
+    "bib_jrnl_count": 16030,
     "bib_file_mod_times": {
         "F:\\Digital Engineering\\5th Sem\\IR Anthology\\Preprocessing\\_processed data\\conf\\adcs\\2002\\conf-adcs-2002.bib": 1698425630.0,
         "F:\\Digital Engineering\\5th Sem\\IR Anthology\\Preprocessing\\_processed data\\conf\\adcs\\2004\\conf-adcs-2004.bib": 1698425636.0,
