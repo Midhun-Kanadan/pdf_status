@@ -28,15 +28,15 @@ The following table displays the current counts:
     </tr>
     <tr>
       <td><b>Total .bib Entries</b></td>
-      <td><img src="https://img.shields.io/badge/Total_Bib-0-orange" alt="Total Bib"></td>
+      <td><img src="https://img.shields.io/badge/Total_Bib-61531-orange" alt="Total Bib"></td>
     </tr>
     <tr>
       <td style="padding-left: 20px;">.bib Entries in 'conf'</td>
-      <td><img src="https://img.shields.io/badge/Conf_Bib-0-orange" alt="Conf Bib"></td>
+      <td><img src="https://img.shields.io/badge/Conf_Bib-45501-orange" alt="Conf Bib"></td>
     </tr>
     <tr>
       <td style="padding-left: 20px;">.bib Entries in 'jrnl'</td>
-      <td><img src="https://img.shields.io/badge/Jrnl_Bib-0-orange" alt="Jrnl Bib"></td>
+      <td><img src="https://img.shields.io/badge/Jrnl_Bib-16030-orange" alt="Jrnl Bib"></td>
     </tr>
   </tbody>
 </table>
