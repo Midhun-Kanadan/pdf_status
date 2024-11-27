@@ -1,11 +1,11 @@
 {
-    "pdf_count": 42836,
-    "pdf_count_conf": 33527,
+    "pdf_count": 42838,
+    "pdf_count_conf": 33529,
     "pdf_count_jrnl": 9309,
     "processed_pdf_count": 42542,
     "unprocessed_pdf_count": 294,
-    "bib_total_count": 61531,
-    "bib_conf_count": 45501,
+    "bib_total_count": 61582,
+    "bib_conf_count": 45552,
     "bib_jrnl_count": 16030,
     "bib_file_mod_times": {
         "F:\\Digital Engineering\\5th Sem\\IR Anthology\\Preprocessing\\_processed data\\conf\\adcs\\2002\\conf-adcs-2002.bib": {
@@ -1559,6 +1559,10 @@
         "F:\\Digital Engineering\\5th Sem\\IR Anthology\\Preprocessing\\_processed data\\conf\\www\\2023\\conf-www-2023.bib": {
             "mod_time": 1698442442.0,
             "entry_count": 701
+        },
+        "F:\\Digital Engineering\\5th Sem\\IR Anthology\\Preprocessing\\_processed data\\conf\\zmidhun\\conf-civr-2003.bib": {
+            "mod_time": 1732734002.120161,
+            "entry_count": 51
         },
         "F:\\Digital Engineering\\5th Sem\\IR Anthology\\Preprocessing\\_processed data\\jrnl\\ftir\\2006\\jrnl-ftir-2006.bib": {
             "mod_time": 1698442892.0,
