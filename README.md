@@ -1,5 +1,15 @@
-# PDF Status
+# PDF and Bib File Statistics
 
-![PDF Count](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Midhun-Kanadan/pdf_status/main/pdf_status.json&cacheSeconds=60)
+The following table displays the current counts:
 
-This repository tracks the number of PDF files in a Folder.
+
+| Metric                  | Count   |
+|-------------------------|---------|
+| Total number of PDFs    | 42836      |
+| PDFs in 'conf'          | 33527      |
+| PDFs in 'jrnl'          | 9309      |
+| Processed PDFs          | 42542      |
+| Unprocessed PDFs        | 294      |
+| Total number of .bib entries | 61531  |
+| Entries in 'conf'       | 45501      |
+| Entries in 'jrnl'       | 16030      |
