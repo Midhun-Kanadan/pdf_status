@@ -18,14 +18,6 @@ The following table displays the current counts:
       <td style="padding-left: 20px;">PDFs in 'jrnl'</td>
       <td><img src="https://img.shields.io/badge/Jrnl_PDFs-9309-blue" alt="Jrnl PDFs"></td>
     </tr>
-    # <tr>
-    #   <td style="padding-left: 20px;">Processed PDFs</td>
-    #   <td><img src="https://img.shields.io/badge/Processed_PDFs-42837-green" alt="Processed PDFs"></td>
-    # </tr>
-    # <tr>
-    #   <td style="padding-left: 20px;">Unprocessed PDFs</td>
-    #   <td><img src="https://img.shields.io/badge/Unprocessed_PDFs-0-red" alt="Unprocessed PDFs"></td>
-    # </tr>
     <tr>
       <td><b>Total .bib Entries</b></td>
       <td><img src="https://img.shields.io/badge/Total_Bib-61531-orange" alt="Total Bib"></td>
