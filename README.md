@@ -8,24 +8,24 @@ The following table displays the current counts:
   <tbody>
     <tr>
       <td><b>Total PDFs</b></td>
-      <td><img src="https://img.shields.io/badge/Total_PDFs-42836-blue" alt="Total PDFs"></td>
+      <td><img src="https://img.shields.io/badge/Total_PDFs-42837-blue" alt="Total PDFs"></td>
     </tr>
     <tr>
       <td style="padding-left: 20px;">PDFs in 'conf'</td>
-      <td><img src="https://img.shields.io/badge/Conf_PDFs-33527-blue" alt="Conf PDFs"></td>
+      <td><img src="https://img.shields.io/badge/Conf_PDFs-33528-blue" alt="Conf PDFs"></td>
     </tr>
     <tr>
       <td style="padding-left: 20px;">PDFs in 'jrnl'</td>
       <td><img src="https://img.shields.io/badge/Jrnl_PDFs-9309-blue" alt="Jrnl PDFs"></td>
     </tr>
-    <tr>
-      <td style="padding-left: 20px;">Processed PDFs</td>
-      <td><img src="https://img.shields.io/badge/Processed_PDFs-42542-green" alt="Processed PDFs"></td>
-    </tr>
-    <tr>
-      <td style="padding-left: 20px;">Unprocessed PDFs</td>
-      <td><img src="https://img.shields.io/badge/Unprocessed_PDFs-294-red" alt="Unprocessed PDFs"></td>
-    </tr>
+    # <tr>
+    #   <td style="padding-left: 20px;">Processed PDFs</td>
+    #   <td><img src="https://img.shields.io/badge/Processed_PDFs-42837-green" alt="Processed PDFs"></td>
+    # </tr>
+    # <tr>
+    #   <td style="padding-left: 20px;">Unprocessed PDFs</td>
+    #   <td><img src="https://img.shields.io/badge/Unprocessed_PDFs-0-red" alt="Unprocessed PDFs"></td>
+    # </tr>
     <tr>
       <td><b>Total .bib Entries</b></td>
       <td><img src="https://img.shields.io/badge/Total_Bib-61531-orange" alt="Total Bib"></td>
